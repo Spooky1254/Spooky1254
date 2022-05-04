@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spooky1254
 - 👀 I’m interested in Full stack, and hopefully game dev!
 - 🌱 I’m currently learning Javascript, Python & Leet code. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything, always looking to learn. 
 - 📫 How to reach me ...
 
 <!---
